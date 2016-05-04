@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "inspiring-tower-119915",
+    "project_number": "639031486850",
+    "name": "Weather"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639031486850:android:368736e73aa22ad5",
+        "client_id": "android:com.nomader.weather",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.nomader.weather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639031486850-70hb59sh726cpm75f7o02s1g75gsbe6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nomader.weather",
+            "certificate_hash": "73D1854789913989D4A57833B89BC0775754446D"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
